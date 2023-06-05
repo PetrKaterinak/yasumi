@@ -17,6 +17,7 @@ declare(strict_types=1);
 return [
     'bs_Latn' => 'Uskrs',
     'ca' => 'Pasqua',
+    'cs' => 'Velikonoční neděle',
     'cy' => 'Sul y Pasg',
     'da' => 'påskedag',
     'de' => 'Ostersonntag',
